@@ -72,3 +72,15 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# React Native build and cache files
+/node_modules/
+/android/app/build/
+/ios/Pods/
+/ios/build/
+/ios/.generated/
+/android/.gradle/
+/android/app/.gradle/
+/.gradle/
+/.idea/
+/.vscode/
